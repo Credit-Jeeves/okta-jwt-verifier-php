@@ -24,7 +24,8 @@ class AutoDiscover
      */
     private static $adaptors = [
         SpomkyLabsJose::class,
-        FirebasePhpJwt::class
+        FirebasePhpJwt::class,
+        LcobucciJwt::class,
     ];
 
     /**
